@@ -1,9 +1,3 @@
-# HE THONG PIPELINE MACHINE LEARNING TOAN DIEN CHO HAI BAI TOAN KAGGLE
-
-Báo cáo này tài liệu hóa dự án nghiên cứu và triển khai hệ thống pipeline Machine Learning (ML) chuẩn hóa công nghiệp để giải quyết hai bài toán kinh điển trên Kaggle: Dự báo Nhu cầu Sử dụng Phương tiện (Bike Sharing Demand) và Dự báo Tỷ lệ Khách hàng Rời bỏ Dịch vụ (Telco Customer Churn). 
-
-Mục tiêu cốt lõi của dự án là xây dựng một pipeline khép kín, mô-đun hóa cao, phòng chống rò rỉ dữ liệu triệt để, tối ưu hóa các quyết định dựa trên mô hình hóa kinh tế và cung cấp khả năng giải thích mô hình tường minh.
-
 ## 1. Cấu trúc Dự án
 
 * ml_pipeline_bike_telco.ipynb: Tệp Jupyter Notebook chính chứa toàn bộ mã nguồn xử lý dữ liệu, trực quan hóa, huấn luyện mô hình, đánh giá hệ thống và phân tích báo cáo chuyên sâu.
