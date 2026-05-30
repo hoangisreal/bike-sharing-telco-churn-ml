@@ -1,6 +1,6 @@
 ## 1. Cấu trúc Dự án
 
-* ml_pipeline_bike_telco.ipynb: Tệp Jupyter Notebook chính chứa toàn bộ mã nguồn xử lý dữ liệu, trực quan hóa, huấn luyện mô hình, đánh giá hệ thống và phân tích báo cáo chuyên sâu.
+* bike_sharing_telco_churn_ml_pipeline.ipynb: Tệp Jupyter Notebook chính chứa toàn bộ mã nguồn xử lý dữ liệu, trực quan hóa, huấn luyện mô hình, đánh giá hệ thống và phân tích báo cáo chuyên sâu.
 * README.md: Tệp tài liệu hướng dẫn vận hành dự án hiện tại.
 
 ## 2. Các Bài toán và Mô hình Triển khai
@@ -54,6 +54,5 @@ Dự án yêu cầu cài đặt các thư viện sau:
 ### Hướng dẫn chạy thử nghiệm
 1. cài đặt trực tiếp thông qua cell cài đặt thư viện ở đầu notebook
 2. Chạy bằng Kaggle hoặc Google Colab.
-3. Mở tệp ml_pipeline_bike_telco.ipynb.
+3. Mở tệp bike_sharing_telco_churn_ml_pipeline.ipynb.
 4. Chọn Run All để hệ thống tự động tải dữ liệu từ Kaggle, thực hiện xử lý dữ liệu, vẽ các biểu đồ phân tích và hiển thị kết quả đánh giá mô hình.
-
